@@ -21,8 +21,8 @@ La primera versió de JavaScript va ser un complet èxit i Netscape Navigator 3.
 
 Per evitar una guerra de tecnologies, Netscape va decidir que el millor seria estandarditzar el llenguatge JavaScript. D'aquesta manera, el 1997 es va enviar l'especificació JavaScript 1.1 a l'organisme ECMA European Computer Manufacturers Association).
 
-ECMA va crear el comitè TC39 amb l'objectiu de "estandarditzar d'un llenguatge de script multiplataforma i independent de qualsevol empresa" . El primer estàndard que va crear el comitè TC39 es va denominar ECMA-262 , en el qual es va definir per primera vegada el llenguatge ECMAScript.
+ECMA va crear el comitè TC39 amb l'objectiu d'"estandarditzar d'un llenguatge de script multiplataforma i independent de qualsevol empresa". El primer estàndard que va crear el comitè TC39 es va denominar ECMA-262, en el qual es va definir per primera vegada el llenguatge ECMAScript.
 
-Per aquest motiu, alguns programadors prefereixen la denominació ECMAScript per referir-se a l'llenguatge JavaScript. De fet, JavaScript no és més que la implementació que va realitzar l'empresa Netscape de l'estàndard ECMAScript.
+Per aquest motiu, alguns programadors prefereixen la denominació ECMAScript per referir-se al llenguatge JavaScript. De fet, JavaScript no és més que la implementació que va realitzar l'empresa Netscape de l'estàndard ECMAScript.
 
 L'organització internacional per a l'estandardització (ISO) va adoptar l'estàndard ECMA-262 a través de la seva comissió IEC, donant lloc a l'estàndard ISO/IEC-16262.
